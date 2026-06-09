@@ -29,6 +29,15 @@ A solução conecta a **economia/indústria espacial** a um problema real aqui n
 
 ---
 
+---
+
+## 🎬 Vídeo Pitch
+
+▶️ **Link do YouTube:** ⚠️ PREENCHER — `https://youtube.com/...`
+
+
+---
+
 ## 🧭 Fluxo de telas
 
 A navegação principal usa uma **barra inferior** com 4 abas, mais uma tela de **detalhes** acessível ao tocar em qualquer asteroide:
