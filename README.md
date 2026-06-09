@@ -32,7 +32,7 @@ A solução conecta a **economia/indústria espacial** a um problema real aqui n
 
 ## 🎬 Vídeo Pitch
 
-▶️ **Link do YouTube:** https://youtu.be/koZWrq3PH9E?feature=shared`
+▶️ **Link do YouTube:** https://youtu.be/koZWrq3PH9E?feature=shared `
 
 
 ---
